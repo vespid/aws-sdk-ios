@@ -17,11 +17,11 @@ Pod::Spec.new do |s|
   s.dependency 'Bolts', '~> 1.1.0'
   s.dependency 'Mantle', '~> 1.4.1'
   s.dependency 'TMCache', '~> 1.2.1'
-  s.dependency 'XMLDictionary', '~> 1.4.0'
+  s.dependency 'XMLDictionary', '~> 1.4'
   s.dependency 'UICKeyChainStore', '~> 1.0.5'
   s.dependency 'Reachability', '~> 3.1.1'
   s.dependency 'GZIP', '~> 1.0.3'
-  s.dependency 'FMDB', '~> 2.4.0'
+  s.dependency 'FMDB', '~> 2.4'
 
   s.requires_arc = true
 
